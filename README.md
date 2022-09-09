@@ -1,2 +1,2 @@
 # Neno's wish list for Azure DevOps 🚀
-My wishlist for Azure DevOps (Server + Services).
+My personal wish list for Azure DevOps (Server + Services).
